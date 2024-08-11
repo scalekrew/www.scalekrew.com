@@ -21,6 +21,17 @@ Our candidates are not just trained; they are equipped with hands-on experience 
 ### Tailored Solutions for Your Business
 We provide talent that aligns perfectly with your project goals, ensuring maximum impact across various departments.
 
+## Current Training Programs
+
+At Scalekrew, we are constantly evolving to meet the needs of the industry. Presently, we are training a new cohort of engineers in the following technologies:
+
+- **Erlang:** Experts in this concurrent, fault-tolerant programming language, perfect for building scalable and maintainable systems.
+- **Elixir:** Skilled professionals in this dynamic, functional language known for its use in scalable applications, especially in real-time systems.
+- **Rust:** Developers with expertise in this systems programming language focused on safety, speed, and concurrency, ideal for performance-critical applications.
+
+These engineers will soon be available to join your teams and contribute to your projects. If you have upcoming needs in these areas, [get in touch with us](contact.html) to discuss how we can help you scale your team with top-tier talent.
+
+
 ## How It Works
 
 1. **Submit Your Requirements:** Provide us with the specific skills and qualifications you're looking for in a professional.
